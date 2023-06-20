@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme description="" title="" version="2.0" working_directory="/users/srio/Oasys" workspace_units="0">
+	<nodes>
+		<node id="0" name="Remote Github Repository Downloader" position="(150, 150)" project_name="OASYS1" qualified_name="oasys.widgets.tools.ow_remote_github_downloader.OWRemoteGithubDownloader" title="Remote Github Repository Downloader" version="" />
+	</nodes>
+	<links />
+	<annotations />
+	<thumbnail />
+	<node_properties>
+		<properties format="pickle" node_id="0">gAN9cQAoWA4AAABiZWFtX2ZpbGVfbmFtZXEBWAAAAABxAlgKAAAAcmVwb3NpdG9yeXEDWC8AAABo
+dHRwczovL2dpdGh1Yi5jb20vb2FzeXMta2l0L1NoYWRvd091aS10dXRvcmlhbHEEWBMAAABzYXZl
+ZFdpZGdldEdlb21ldHJ5cQVOWAwAAABzZWxlY3RlZEZpbGVxBmgCWA0AAABzZWxlY3RlZEluZGV4
+cQdjY29weXJlZwpfcmVjb25zdHJ1Y3RvcgpxCGNidWlsdGlucwpsaXN0CnEJaAkph3EKUnELSwBh
+WAwAAABzZXJ2ZXJzX2xpc3RxDEsBWA8AAAB1cmxzZWxlY3RlZGZpbGVxDWgCdS4=
+</properties>
+	</node_properties>
+</scheme>

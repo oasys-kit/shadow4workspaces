@@ -1,2 +1,2 @@
 # shadow4workspaces
-workspaces for shadow4
+workspaces for testing shadow4

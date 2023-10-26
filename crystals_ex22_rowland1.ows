@@ -29,7 +29,7 @@
 		<node id="25" name="Generic Beam Screen/Slit/Stopper/Attenuator" position="(403.0, 1298.0)" project_name="OASYS1-shadow4" qualified_name="orangecontrib.shadow4.widgets.optics.ow_screen_slits.OWScreenSlits" title="Screen-Slits" version="" />
 		<node id="26" name="Generic Crystal" position="(665.0, 1302.0)" project_name="OASYS1-shadow4" qualified_name="orangecontrib.shadow4.widgets.optics.ow_crystal.OWCrystal" title="Generic Crystal" version="" />
 		<node id="27" name="Generic Crystal" position="(865.0, 1385.0)" project_name="OASYS1-shadow4" qualified_name="orangecontrib.shadow4.widgets.optics.ow_crystal.OWCrystal" title="Generic Crystal (+,+)" version="" />
-		<node id="28" name="Histogram" position="(1061.0, 1392.0)" project_name="OASYS1-shadow4" qualified_name="orangecontrib.shadow4.widgets.tools.ow_histogram.Histogram" title="Histogram" version="" />
+		<node id="28" name="Histogram" position="(1060.0, 1392.0)" project_name="OASYS1-shadow4" qualified_name="orangecontrib.shadow4.widgets.tools.ow_histogram.Histogram" title="Histogram" version="" />
 		<node id="29" name="Shadow3 Shadow4 Comparison" position="(1112.0, 505.0)" project_name="OASYS1-shadow4" qualified_name="orangecontrib.shadow4.widgets.compatibility.ow_shadow_compare_beam3_beam4.OWShadowCompareBeam3Beam4" title="Shadow3 Shadow4 Comparison" version="" />
 		<node id="30" name="Undulator Gaussian" position="(77.0, 649.0)" project_name="OASYS1-shadow4" qualified_name="orangecontrib.shadow4.widgets.sources.ow_undulator_gaussian.OWUndulatorGaussian" title="Undulator Gaussian DE=2eV" version="" />
 		<node id="31" name="shadow4-&gt;3 beam converter" position="(234.0, 581.0)" project_name="OASYS1-shadow4" qualified_name="orangecontrib.shadow4.widgets.compatibility.ow_shadow4_beam_to_shadow3_beam.OW_beam_converter_4_to_3" title="shadow4-&gt;3 beam converter" version="" />
@@ -1510,8 +1510,8 @@ ZV9wbGFuZV9uZXdfcG9zaXRpb25xB0dAJAAAAAAAAFgcAAAAaW1hZ2VfcGxhbmVfcmVsX2Fic19w
 b3NpdGlvbnEISwBYEAAAAGlzX2F1dG9tYXRpY19ydW5xCYhYCwAAAGtlZXBfcmVzdWx0cQpLAFgO
 AAAAbnVtYmVyX29mX2JpbnNxC0vJWAQAAAByYXlzcQxLAVgTAAAAc2F2ZWRXaWRnZXRHZW9tZXRy
 eXENY3NpcApfdW5waWNrbGVfdHlwZQpxDlgMAAAAUHlRdDUuUXRDb3JlcQ9YCgAAAFFCeXRlQXJy
-YXlxEENCAdnQywADAAAAAAgZAAABbAAADUAAAARMAAAIGQAAAZEAAA1AAAAETAAAAAEAAAAAB4AA
-AAgZAAABkQAADUAAAARMcRGFcRKHcRNScRRYBQAAAHRpdGxlcRVYEQAAADI2OiBQaG90b24gRW5l
+YXlxEENCAdnQywADAAAAAAHNAAABnQAABvQAAAR9AAABzQAAAcIAAAb0AAAEfQAAAAAAAAAAB4AA
+AAHNAAABwgAABvQAAAR9cRGFcRKHcRNScRRYBQAAAHRpdGxlcRVYEQAAADI2OiBQaG90b24gRW5l
 cmd5cRZYEwAAAHdlaWdodF9jb2x1bW5faW5kZXhxF0sXWA4AAAB4X2NvbHVtbl9pbmRleHEYSxlY
 BwAAAHhfcmFuZ2VxGUsAWAsAAAB4X3JhbmdlX21heHEaRwAAAAAAAAAAWAsAAAB4X3JhbmdlX21p
 bnEbRwAAAAAAAAAAdS4=
@@ -1605,7 +1605,7 @@ ZV9wbGFuZV9uZXdfcG9zaXRpb25xB0dAJAAAAAAAAFgcAAAAaW1hZ2VfcGxhbmVfcmVsX2Fic19w
 b3NpdGlvbnEISwBYEAAAAGlzX2F1dG9tYXRpY19ydW5xCYhYCwAAAGtlZXBfcmVzdWx0cQpLAFgO
 AAAAbnVtYmVyX29mX2JpbnNxC0tkWAQAAAByYXlzcQxLAVgTAAAAc2F2ZWRXaWRnZXRHZW9tZXRy
 eXENY3NpcApfdW5waWNrbGVfdHlwZQpxDlgMAAAAUHlRdDUuUXRDb3JlcQ9YCgAAAFFCeXRlQXJy
-YXlxEENCAdnQywADAAAAAAlgAAABpgAADocAAARWAAAJYAAAAaYAAA6HAAAEVgAAAAEAAAAAB4AA
+YXlxEENCAdnQywADAAAAAAlgAAABgQAADocAAARWAAAJYAAAAaYAAA6HAAAEVgAAAAEAAAAAB4AA
 AAlgAAABpgAADocAAARWcRGFcRKHcRNScRRYBQAAAHRpdGxlcRVYEQAAADI2OiBQaG90b24gRW5l
 cmd5cRZYEwAAAHdlaWdodF9jb2x1bW5faW5kZXhxF0sXWA4AAAB4X2NvbHVtbl9pbmRleHEYSxlY
 BwAAAHhfcmFuZ2VxGUsAWAsAAAB4X3JhbmdlX21heHEaRwAAAAAAAAAAWAsAAAB4X3JhbmdlX21p
@@ -2024,7 +2024,7 @@ AAAAW11xB1gQAAAAY29sdW1uc182X2Fzc2VydHEISwFYDgAAAGNvbHVtbnNfNl9mbGFncQlLAVgT
 AAAAY29sdW1uc182X2dvb2Rfb25seXEKSwFYDgAAAGNvbHVtbnNfNl9wbG90cQtLAFgQAAAAaXNf
 YXV0b21hdGljX3J1bnEMiFgTAAAAc2F2ZWRXaWRnZXRHZW9tZXRyeXENY3NpcApfdW5waWNrbGVf
 dHlwZQpxDlgMAAAAUHlRdDUuUXRDb3JlcQ9YCgAAAFFCeXRlQXJyYXlxEENCAdnQywADAAAAAAiY
-AAABMQAADb8AAAQRAAAImAAAAVYAAA2/AAAEEQAAAAEAAAAAB4AAAAiYAAABVgAADb8AAAQRcRGF
+AAABVgAADb8AAAQRAAAImAAAAVYAAA2/AAAEEQAAAAEAAAAAB4AAAAiYAAABVgAADb8AAAQRcRGF
 cRKHcRNScRR1Lg==
 </properties>
 	</node_properties>

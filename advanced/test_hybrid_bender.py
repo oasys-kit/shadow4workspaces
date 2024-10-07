@@ -1,4 +1,7 @@
 from shadow4.beamline.s4_beamline import S4Beamline
+from shadow4.tools.logger import is_verbose, is_debug, set_verbose
+
+#set_verbose()
 
 beamline = S4Beamline()
 
